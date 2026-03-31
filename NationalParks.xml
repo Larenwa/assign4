@@ -14,6 +14,17 @@
       <Zip>86023</Zip>
     </Address>
   </NationalPark>
+  <NationalPark Rating="4.7">
+    <Name>Zion</Name>
+    <Phone>435-772-3256</Phone>
+    <Address NearestAirport="St. George">
+      <Number>1</Number>
+      <Street>Zion Park Blvd</Street>
+      <City>Springdale</City>
+      <State>UT</State>
+      <Zip>84767</Zip>
+    </Address>
+  </NationalPark>
   <NationalPark Rating="4.3">
     <Name>Congaree</Name>
     <Phone>803-776-4396</Phone>
