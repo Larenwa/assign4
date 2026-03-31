@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Valid xml file w/ at least 10 valid national parks, each following the rules in the xsd file for national parks.             -->
+ <!-- NearestAirport required Address -->
+<!-- Rating is optional on NationalPark -->
 <NationalParks xmlns="https://larenwa.github.io/assign4"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                xsi:schemaLocation="https://larenwa.github.io/assign4 https://raw.githubusercontent.com/Larenwa/assign4/main/NationalParks.xsd">
