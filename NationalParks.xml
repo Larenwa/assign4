@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                xsi:noNamespaceSchemaLocation="https://larenwa.github.io/assign4/NationalParks.xsd">
-  
+   <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Phone>928-638-7496</Phone>
+    <Phone>888-297-2757</Phone>
+    <Phone>866-499-2574</Phone>
+    <Address NearestAirport="FlagStaff">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.7">
+    <Name>Zion</Name>
+    <Phone>435-772-3256</Phone>
+    <Address NearestAirport="St. George">
+      <Number>1</Number>
+      <Street>Zion Park Blvd</Street>
+      <City>Springdale</City>
+      <State>UT</State>
+      <Zip>84767</Zip>
+    </Address>
+  </NationalPark>
   <NationalPark Rating="4.3">
     <Name>Congaree</Name>
     <Phone>803-776-4396</Phone>
@@ -13,7 +36,6 @@
       <Zip>29061</Zip>
     </Address>
   </NationalPark>
-  
   <NationalPark>
     <Name>Guadalupe Mountains</Name>
     <Phone>915-828-3251</Phone>
@@ -25,7 +47,6 @@
       <Zip>79847</Zip>
     </Address>
   </NationalPark>
-  
   <NationalPark Rating="4.1">
     <Name>Voyageurs</Name>
     <Phone>218-283-6600</Phone>
@@ -38,7 +59,6 @@
       <Zip>56649</Zip>
     </Address>
   </NationalPark>
-  
   <NationalPark>
     <Name>Isle Royale</Name>
     <Phone>906-482-0984</Phone>
@@ -50,7 +70,6 @@
       <Zip>49931</Zip>
     </Address>
   </NationalPark>
-  
   <NationalPark Rating="4.2">
     <Name>Black Canyon</Name>
     <Phone>970-249-1914</Phone>
@@ -63,7 +82,6 @@
       <Zip>81230</Zip>
     </Address>
   </NationalPark>
-  
   <NationalPark Rating="4.0">
     <Name>Pinnacles</Name>
     <Phone>831-389-4486</Phone>
@@ -75,7 +93,6 @@
       <Zip>95043</Zip>
     </Address>
   </NationalPark>
-  
   <NationalPark>
     <Name>Dry Tortugas</Name>
     <Phone>305-242-7700</Phone>
@@ -87,7 +104,6 @@
       <Zip>33034</Zip>
     </Address>
   </NationalPark>
-  
   <NationalPark Rating="4.2">
     <Name>Cuyahoga Valley</Name>
     <Phone>330-657-2752</Phone>
@@ -100,19 +116,6 @@
       <Zip>44264</Zip>
     </Address>
   </NationalPark>
-  
-  <NationalPark>
-    <Name>Great Basin</Name>
-    <Phone>775-234-7331</Phone>
-    <Address NearestAirport="Elko">
-      <Number>100</Number>
-      <Street>Great Basin National Park</Street>
-      <City>Baker</City>
-      <State>NV</State>
-      <Zip>89311</Zip>
-    </Address>
-  </NationalPark>
-  
   <NationalPark Rating="4.1">
     <Name>Wind Cave</Name>
     <Phone>605-745-4600</Phone>
@@ -125,5 +128,4 @@
       <Zip>57747</Zip>
     </Address>
   </NationalPark>
-  
 </NationalParks>
