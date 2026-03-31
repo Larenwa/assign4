@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- root element is NationalPark instead of NationalParks -->
 <NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-              xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Larenwa/assign4/main/NationalParks.xsd">
+              xsi:schemaLocation="https://larenwa.github.io/assign4 https://raw.githubusercontent.com/Larenwa/assign4/main/NationalParks.xsd">
     <!-- NearestAirport required attribute missing on Address -->
   <NationalPark Rating="4.3">
     <Name>Congaree</Name>
