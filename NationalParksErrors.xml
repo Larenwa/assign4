@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-              xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Larenwa/assign4/main/NationalParks.xsd">
+              xsi:schemaLocation="https://larenwa.github.io/assign4 https://raw.githubusercontent.com/Larenwa/assign4/main/NationalParks.xsd">
   <NationalPark Rating="4.3">
     <Name>Congaree</Name>
     <Phone>803-776-4396</Phone>
